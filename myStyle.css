@@ -1,0 +1,26 @@
+body {
+    background-image: url("fire.webp");
+}
+section {
+    height: 486px;
+}
+p{
+    color: #FFD93D;
+}
+header,footer {
+    text-align: center;
+    padding: 20px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: yellow;
+  }
+  
